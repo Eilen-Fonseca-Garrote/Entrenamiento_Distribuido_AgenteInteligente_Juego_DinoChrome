@@ -1,5 +1,6 @@
 //Mutacion y seleccion natural
 
+// Metodos implementados a partir del pseudocodigo estudiado en  clases de IA 
 function newPop(popSize){
 	var nextGen = [];
 	champion = population[findBest(population)];
@@ -30,7 +31,7 @@ function selectReject(pop, s){
 		fitness = parent2.fitness;
 		rand = Math.random() * s;
 	}
-
+// cambiar parametros de rand
 	var i_h = matrixZeros(hiddenNodes, inputNodes);
 	var h_o = matrixZeros(outputNodes, hiddenNodes);
 	var bias = 0;
@@ -98,5 +99,5 @@ function findBest(pop){
 
 
 
-
+// by eilen
 
