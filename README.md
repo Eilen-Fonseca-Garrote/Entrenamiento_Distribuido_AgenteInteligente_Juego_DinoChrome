@@ -6,7 +6,7 @@ La idea de un proyecto para la asignatura Sistemas Distribuidos
 
 🦕Una versión del dino game al estilo AI-learns-to-play🧬
 
-# [ Toca aqui para que lo veas desplegado RAWRRR🦖🎮](https://eilen-fonseca-garrote.github.io/Entrenamiento_Distribuido_AgenteInteligente_Juego_DinoChrome/)
+# [ Toca aqui para que lo veas desplegado RAWRRR🦖🎮](https://eilen-fonseca-garrote.github.io/Juego-Dino-Chrome-Trained/)
 
 ⭐ Si te gusta me ayudarias mucho con una estrellita de regalo ;) ⭐
 ## Pasos para ejecutar 🦕🦴
